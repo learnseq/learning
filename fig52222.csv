@@ -1,5 +1,4 @@
-a-cells,,,,b-cells,,,,g-cells,,,,d-cells,,,,acinar cells,,,,ductal cells,,,
-no,geneIDs,a-cells,? (donor),no,geneIDs,b-cells,? (donor),no,geneIDs,g-cells,? (donor),no,geneIDs,d-cells,? (donor),no,geneIDs,? (cell type),? (donor),no,geneIDs,? (cell type),? (donor)
+no,geneIDs,a-cells,a donor,no,geneIDs,b-cells,b donor,no,geneIDs,g-cells,g donor,no,geneIDs,d-cells,d donor,no,geneIDs,acinar cell type,acinar donor,no,geneIDs,ductal cell type,ductal donor
 1,'PCSK1N',0.847,0.644,1,'PCSK1N',0.858,0.644,1,'RPLP1',0.81,0.723,1,'PCSK1N',0.751,0.644,1,'RPL7A',0.776,0.64,1,'EEF2',0.855,0.774
 2,'BCAM',0.823,0.717,2,'SNHG7',0.796,0.662,2,'CTSD',0.761,0.657,2,'CELF3',0.723,0.587,2,'AP1S1',0.775,0.683,2,'PPDPF',0.854,0.773
 3,'RPLP1',0.821,0.723,3,'C1QL1',0.76,0.547,3,'NPDC1',0.722,0.613,3,'CDK5R2',0.715,0.573,3,'JUND',0.766,0.46,3,'PRSS22',0.842,0.447
