@@ -1,4 +1,4 @@
-geneIDs	a_cells	a_donor	geneIDs	b_cells	b_donor	geneIDs	g_cells	g_donor	geneIDs	d_cells	d _donor	geneIDs	acinar_cell	acinar_donor	geneIDs	ductal_cell	ductal_donor	all cells	all_donors
+geneIDs	a_cells	a_donor	geneIDs	b_cells	b_donor	geneIDs	g_cells	g_donor	geneIDs	d_cells	d_donor	geneIDs	acinar_cell	acinar_donor	geneIDs	ductal_cell	ductal_donor	all cells	all_donors
 'PCSK1N'	0.847	0.644	'PCSK1N'	0.858	0.644	'RPLP1'	0.81	0.723	'PCSK1N'	0.751	0.644	'RPL7A'	0.776	0.64	'EEF2'	0.855	0.774	0.847	0.644
 'BCAM'	0.823	0.717	'SNHG7'	0.796	0.662	'CTSD'	0.761	0.657	'CELF3'	0.723	0.587	'AP1S1'	0.775	0.683	'PPDPF'	0.854	0.773	0.823	0.717
 'RPLP1'	0.821	0.723	'C1QL1'	0.76	0.547	'NPDC1'	0.722	0.613	'CDK5R2'	0.715	0.573	'JUND'	0.766	0.46	'PRSS22'	0.842	0.447	0.821	0.723
