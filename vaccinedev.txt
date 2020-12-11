@@ -1,0 +1,47 @@
+Candidate	Mechanism	Sponsor	Trial Phase	Institution
+AAVCOVID	Gene-based vaccine	Massachusetts Eye and Ear; Massachusetts General Hospital; University of Pennsylvania	Pre-clinical	
+AdCOVID	Intranasal vaccine	Altimmune	Pre-clinical	University of Alabama at Birmingham
+ChAd-SARS-CoV-2-S	Adenovirus-based vaccine	Washington University School of Medicine in St. Louis	Pre-clinical	Washington University School of Medicine in St. Louis
+HaloVax	Self-assembling vaccine	"Voltron Therapeutics, Inc.; Hoth Therapeutics, Inc."	Pre-clinical	MGH Vaccine and Immunotherapy Center
+HDT-301	RNA vaccine	University of Washington; National Institutes of Health Rocky Mountain Laboratories; HDT Bio Corp	Pre-clinical	
+LineaDNA	DNA vaccine	Takis Biotech	Pre-clinical	Takis Biotech
+MRT5500	Recombinant vaccine	"Sanofi, Translate Bio"	Pre-clinical	
+No name announced	Ii-Key peptide COVID-19 vaccine	Generex Biotechnology	Pre-clinical	Generex
+No name announced	Protein subunit vaccine	University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre	Pre-clinical	University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre
+No name announced	mRNA-based vaccine	Chulalongkorn University’s Center of Excellence in Vaccine Research and Development	Pre-clinical	
+No name announced	gp96-based vaccine	Heat Biologics	Pre-clinical	University of Miami Miller School of Medicine
+No name announced	Inactivated vaccine	Shenzhen Kangtai Biological Products	Pre-clinical	
+PittCoVacc	Recombinant protein subunit vaccine (delivered through microneedle array)	UPMC/University of Pittsburgh School of Medicine	Pre-clinical	University of Pittsburgh
+T-COVIDTM	Intranasal vaccine	Altimmune	Pre-clinical	
+mRNA-1273	mRNA-based vaccine	Moderna	Phase 3	Kaiser Permanente Washington Health Research Institute
+Ad5-nCoV	Recombinant vaccine (adenovirus type 5 vector)	CanSino Biologics	Phase 3	"Tongji Hospital; Wuhan, China"
+AZD1222	Replication-deficient viral vector vaccine (adenovirus from chimpanzees)	The University of Oxford; AstraZeneca; IQVIA; Serum Institute of India	Phase 3	"The University of Oxford, the Jenner Institute"
+Covaxin	Inactivated vaccine	Bharat Biotech; National Institute of Virology	Phase 3	
+JNJ-78436735 (formerly Ad26.COV2.S)	Non-replicating viral vector	Johnson & Johnson	Phase 3	Johnson & Johnson
+NVX-CoV2373	Nanoparticle vaccine	Novavax	Phase 3	Novavax
+Bacillus Calmette-Guerin (BCG) vaccine	Live-attenuated vaccine	University of Melbourne and Murdoch Children’s Research Institute; Radboud University Medical Center; Faustman Lab at Massachusetts General Hospital	Phase 2/3	University of Melbourne and Murdoch Children’s Research Institute; Radboud University Medical Center; Faustman Lab at Massachusetts General Hospital
+INO-4800	DNA vaccine (plasmid)	Inovio Pharmaceuticals	Phase 2/3	"Center for Pharmaceutical Research, Kansas City. Mo.; University of Pennsylvania, Philadelphia"
+VIR-7831	Plant-based adjuvant vaccine	Medicago; GSK; Dynavax	Phase 2/3	Medicago
+No name announced	Recombinant vaccine	"Anhui Zhifei Longcom Biopharmaceutical, Institute of Microbiology of the Chinese Academy of Sciences"	Phase 2	Various
+ZyCoV-D	DNA vaccine (plasmid)	Zydus Cadila	Phase 2	Zydus Cadila
+BNT162	mRNA-based vaccine	"Pfizer, BioNTech"	Phase 1/2/3	"Multiple study sites in Europe, North America and China"
+No name announced	Adjuvanted protein subunit vaccine		Phase 1/2	
+AG0301-COVID19	DNA vaccine	"AnGes, Inc."	Phase 1/2	"AnGes, Inc.; Japan Agency for Medical Research and Development"
+GX-19	DNA vaccine	Genexine	Phase 1/2	
+LNP-nCoVsaRNA	Self-amplifying RNA vaccine	Imperial College London	Phase 1/2	Imperial College London
+ARCT-021 (LUNAR-COV19)	Self-replicating RNA vaccine	Arcturus Therapeutics and Duke-NUS Medical School	Phase 1/2	"Duke-NUS Medical School, Singapore"
+No name announced	Protein subunit vaccine	Sanofi; GlaxoSmithKline	Phase 1/2	Various
+No name announced	Inactivated vaccine	"Chinese Academy of Medical Sciences, Institute of Medical Biology"	Phase 1/2	"West China Second University Hospital, Yunnan Center for Disease Control and Prevention"
+AdimrSC-2f	Protein subunit vaccine	Adimmune	Phase 1	Adimmune
+bacTRL-Spike	Monovalent oral vaccine (bifidobacteria)	Symvivo	Phase 1	Symvivo Corporation
+COVAX-19	Monovalent recombinant protein vaccine	Vaxine Pty Ltd.	Phase 1	Royal Adelaide Hospital
+CVnCoV	mRNA-based vaccine	CureVac	Phase 1	CureVac
+DelNS1-2019-nCoV-RBD-OPT1	Replicating viral vector	"Xiamen University, Beijing Wantai Biological Pharmacy"	Phase 1	Jiangsu Provincial Centre For Disease Control and Prevention
+GRAd-COV2	Adenovirus-based vaccine	ReiThera; Leukocare; Univercells	Phase 1	Lazzaro Spallanzani National Institute for Infectious Diseases
+UQ-CSL V451	Protein subunit vaccine	CSL; The University of Queensland	Phase 1	
+No name announced	Adenovirus-based vaccine	ImmunityBio; NantKwest	Phase 1	
+SCB-2019	Protein subunit vaccine	"GlaxoSmithKline, Sanofi, Clover Biopharmaceuticals, Dynavax and Xiamen Innovax; CEPI"	Phase 1	Linear Clinical Research (Australia)
+UB-612	Multitope peptide-based vaccine	COVAXX	Phase 1	United Biomedical Inc. (UBI)
+V590	Recombinant vaccine (vesicular stomatitis virus)	Merck; IAVI	Phase 1	
+V591	Measles vector vaccine	University of Pittsburgh’s Center for Vaccine Research	Phase 1	University of Pittsburgh; Themis Biosciences; Institut Pasteur
+VXA-CoV2-1	Recombinant vaccine (adenovirus type 5 vector)	Vaxart	Phase 1	Vaxart
